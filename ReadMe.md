@@ -1,5 +1,30 @@
 # 💫 About Me:
-🤖 AI & Web Developer | 💻 Python, JavaScript, PHP & MzySQL | 🌐 Building Modern, Responsive Web Applications | 🧠 Exploring AI & Machine Learning | 🚀 Turning 
+## 👋 About Me
+ Aspiring AI & Full-Stack Web Developer passionate about building innovative, scalable, and intelligent software solutions.
+
+My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Generative AI, and Web Development**. I enjoy exploring new technologies, solving complex problems, and transforming ideas into practical applications.
+
+### 💻 Technical Interests
+- Artificial Intelligence & Machine Learning
+- Generative AI & AI-powered applications
+- Full-Stack Web Development
+- Data Structures & Algorithms
+- Software Engineering & Problem Solving
+
+### 🛠️ Technologies & Tools
+- **Languages:** Python, JavaScript, PHP
+- **Frontend:** HTML, CSS, Bootstrap
+- **Backend:** PHP, MySQL
+- **AI Integration:** Gemini API, OpenAI API
+- **Tools:** Git, GitHub, Docker, VS Code
+
+### 🎯 Current Goals
+- Strengthening my AI/ML and software development skills.
+- Building intelligent web applications powered by AI.
+- Improving problem-solving and algorithmic thinking.
+- Contributing to meaningful projects and open-source communities.
+
+**💡 My Philosophy:** Learn continuously, build consistently, and use technology to solve real-world problems.
 
 
 ## 🌐 Socials:
