@@ -9,7 +9,7 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
 - Generative AI & AI-powered applications
 - Full-Stack Web Development
 - Data Structures & Algorithms
-- Software Engineering & Problem Solving
+
 
 ### 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript, PHP
