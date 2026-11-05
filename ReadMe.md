@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👋 About Me
+# 💫 About Me
  Aspiring AI & Full-Stack Web Developer passionate about building innovative, scalable, and intelligent software solutions.
 
 My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Generative AI, and Web Development**. I enjoy exploring new technologies, solving complex problems, and transforming ideas into practical applications.
